@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h4 align="center">Profile stats 🎹</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Merradou-Abderrahmane&show_icons=true&theme=synthwave" alt="Merradou-Abderrahmane:: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merradou-Abderrahmane&langs_count=10&theme=tokyonight&layout=compact" alt="Merradou-Abderrahmane:: Top Langs" /></p>
 
 <!--
 **Merradou-Abderrahmane/Merradou-Abderrahmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
