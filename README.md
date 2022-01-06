@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 <h4 align="center">Profile stats 🎹</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Merradou-Abderrahmane&show_icons=true&theme=synthwave" alt="Merradou-Abderrahmane:: Profile Stats" /></p>
 
